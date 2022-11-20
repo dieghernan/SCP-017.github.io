@@ -1,5 +1,6 @@
 ---
 layout: landingpage
+title:
 ---
 
 # Sample Index
