@@ -1,7 +1,2 @@
----
-layout: landingpage
-title:
----
-
-# Sample Index
+## Sample Index
 - Description here.
