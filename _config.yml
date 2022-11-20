@@ -13,13 +13,9 @@ navbar:
   - title: ReVanced
     child:
      - title: Home
-       url: /pages/revanced/home
-     - title: All Packages
-       url: /pages/revanced/_packages
-     - title: microG
-       url: /pages/revanced/_packages/micro-g
-     - title: Nyx Music Player
-       url: /pages/revanced/_packages/nyx
+       url: /revanced/home
+     - title: Packages
+       url: /revanced/packages/
 
 chulapa-skin: 
   skin: twitter-lights-out
@@ -29,7 +25,7 @@ collections:
   packages:
     output: true
     permalink: /packages/:name
-collections_dir     : pages/revanced
+collections_dir     : revanced
 permalink           : /:year:month:day_:title/
 paginate: 4
 paginate_path: "/blog/page:num/"
