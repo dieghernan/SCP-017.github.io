@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: minimal
 title: Landing Page Title
 subtitle: A free Jekyll theme to be released soon.
 header_type: splash
