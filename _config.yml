@@ -5,7 +5,18 @@ subtitle: Page subtitle.
 url:
 baseurl:
 
-navbar: false
+navbar:
+  style: "dual"
+  brand:
+    title: Home
+  nav:
+  - title: ReVanced
+    url: /pages/revanced/home
+    child:
+     - title: microG
+       url: /pages/revanced/micro-g/main
+     - title: Nyx Music Player
+       url: /pages/revanced/nyx/main
 
 chulapa-skin: 
   skin: twitter-dim
