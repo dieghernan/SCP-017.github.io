@@ -4,10 +4,10 @@ layout: minimal
 
 <img src="https://is.gd/PZinky" style="width: 45%">
 
-<h2><p align="center"> microG </p></h2>
+<p align="center"><b> microG </b></p>
 
 <p align="center">
-<b> By : microG Project </b>
+By : microG Project
 </p>
 
 ![](https://is.gd/ghwVrE)
