@@ -1,7 +1,8 @@
 ---
-title: <img src="https://is.gd/PZinky" style="width: 45%"> microG
-layout: landingpage
+title: microG
 ---
+
+<img src="https://is.gd/PZinky" style="width: 45%">
 
 ![](https://is.gd/tQ44D4)
 
