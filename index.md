@@ -1,12 +1,11 @@
 ---
 layout: landingpage
 title: " "
+navbar: false
 header_type: splash
-header_img: "https://is.gd/FgwQ2t"
+header_img: "https://is.gd/b8kMrc"
 project_links:
-    - url: https://github.com/dieghernan/chulapa
-      icon: fab fa-facebook
-      label: Follow
+    - url: https://github.com/SCP-017
+      icon: fab fa-github
+      label: GitHub
 ---
-Alternative
-https://is.gd/b8kMrc
