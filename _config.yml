@@ -5,10 +5,7 @@ subtitle: Page subtitle.
 url:
 baseurl:
 
-navbar:
-  style: "dual"
-  brand:
-    title: Navbar Title
+navbar: false
 
 chulapa-skin: 
   skin: twitter-dim
