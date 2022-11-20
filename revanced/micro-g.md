@@ -2,7 +2,7 @@
 layout: minimal
 ---
 
-![](https://is.gd/PZinky)
+![](https://is.gd/3FVYMW)
 
 <h4>
 <p align="center">
