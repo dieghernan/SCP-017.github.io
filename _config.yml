@@ -1,5 +1,10 @@
 remote_theme: dieghernan/chulapa
 
+title: Page Title
+subtitle: Page subtitle.
+url:
+baseurl:
+
 navbar:
   style: "dual"
   brand:
