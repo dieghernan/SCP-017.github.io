@@ -2,7 +2,7 @@
 layout: minimal
 ---
 
-<img src="https://is.gd/PZinky" style="width: 45%">
+<img src="https://is.gd/PZinky" style="width: 25%">
 
 <p align="center"><b> microG </b></p>
 
