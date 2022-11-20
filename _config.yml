@@ -10,7 +10,7 @@ navbar:
   nav:
   - title: ReVanced
     child:
-     - title: ReVanced Info
+     - title: Info
        url: /revanced/home
      - title: microG
        url: /revanced/micro-g
@@ -19,10 +19,13 @@ navbar:
 
 footer:
   links:
+    - label : Facebook
+      icon  : fab fa-facebook
+      url   : https://fb.me/fb.me.2
     - label : GitHub
       icon  : fab fa-github
       url   : https://github.com/SCP-017
-  copyright: © 2022
+  copyright: © 2022 by SCP-017
 
 chulapa-skin: 
   skin: twitter-lights-out
