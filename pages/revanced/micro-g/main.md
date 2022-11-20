@@ -4,7 +4,7 @@ layout: minimal
 
 <img src="https://is.gd/PZinky">
 
-<p align="center"><b> microG </b></p>
+<h4><p align="center"> microG </p></h4>
 
 <p align="center">
 By : microG Project
@@ -24,6 +24,6 @@ microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow a
 
 <h4><p align="center"> Download </p></h4>
 
-[![](https://is.gd/nl2yMm)](https://is.gd/KAR5Gu)
+[![](https://is.gd/Qy0ln5)](https://is.gd/iIBAm2)
 
-#[![](https://is.gd/LGEerw)](https://is.gd/iIBAm2)
+[![](https://is.gd/Zg1cR8)](https://is.gd/KAR5Gu)
