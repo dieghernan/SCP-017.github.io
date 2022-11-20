@@ -17,9 +17,9 @@ navbar:
      - title: All Packages
        url: /pages/revanced/packages
      - title: microG
-       url: /pages/revanced/packages/micro-g
+       url: /pages/revanced/packages/micro-g/main
      - title: Nyx Music Player
-       url: /pages/revanced/packages/nyx
+       url: /pages/revanced/packages/nyx/main
 
 chulapa-skin: 
   skin: twitter-lights-out
