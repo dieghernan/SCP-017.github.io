@@ -6,9 +6,6 @@ header_type: splash
 header_img: "./assets/site/banner.jpg"
 project_links:
     - url: https://github.com/dieghernan/chulapa
-      icon: fab fa-github fa-lg
+      icon: facebook
       label: Follow
 ---
-
-## Sample Index
-- Description here.
