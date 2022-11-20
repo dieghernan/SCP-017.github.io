@@ -1,6 +1,5 @@
 ---
 title: microG
-header_img: https://is.gd/PZinky
 ---
 
 <img src="https://is.gd/PZinky" style="width: 45%">
@@ -13,7 +12,8 @@ microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow a
 </sub>
 </p>
 
-## Download
+<h2><p align="center"> Download </p></h2>
+
 [![](https://is.gd/nl2yMm)](https://is.gd/KAR5Gu)
 
 #[![](https://is.gd/LGEerw)](https://is.gd/iIBAm2)
