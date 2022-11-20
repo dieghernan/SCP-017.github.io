@@ -11,8 +11,9 @@ navbar:
     title: Home
   nav:
   - title: ReVanced
-    url: /pages/revanced/home
     child:
+     - title: Home
+       url: /pages/revanced/home
      - title: microG
        url: /pages/revanced/micro-g/main
      - title: Nyx Music Player
