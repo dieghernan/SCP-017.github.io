@@ -15,16 +15,26 @@ navbar:
      - title: Home
        url: /pages/revanced/home
      - title: All Packages
-       url: /pages/revanced/packages
+       url: /pages/revanced/_packages
      - title: microG
-       url: /pages/revanced/packages/micro-g
+       url: /pages/revanced/_packages/micro-g
      - title: Nyx Music Player
-       url: /pages/revanced/packages/nyx
+       url: /pages/revanced/_packages/nyx
 
 chulapa-skin: 
   skin: twitter-lights-out
 
 #### Defaults (Do not modify.)
+collections:
+  packages:
+    output: true
+    permalink: /packages/:name
+collections_dir     : pages/revanced
+permalink           : /:year:month:day_:title/
+paginate: 4
+paginate_path: "/blog/page:num/"
+paginator_maxnum: 3
+
 defaults:
   -
     scope:
