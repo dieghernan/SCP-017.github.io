@@ -19,7 +19,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "minimal"
       header_type: "base"
       include_on_search   : false
       cloudtag_url        : "/tags"
