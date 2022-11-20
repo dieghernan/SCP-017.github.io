@@ -1,11 +1,9 @@
 ---
-title: microG
+title: <img src="https://is.gd/PZinky" style="width: 45%"> microG
 layout: landingpage
 ---
 
-<img src="https://is.gd/PZinky" style="width: 45%">
-
-![](https://is.gd/DLmbpI)
+![](https://is.gd/tQ44D4)
 
 <p align="center">
 <sub>
