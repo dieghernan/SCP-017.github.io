@@ -7,9 +7,7 @@ layout: minimal
 <h2><p align="center"> microG </p></h2>
 
 <p align="center">
-<sub>
-By : microG Project
-</sub>
+<b> By : microG Project </b>
 </p>
 
 ![](https://is.gd/ghwVrE)
