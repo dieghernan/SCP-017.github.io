@@ -64,7 +64,7 @@ plugins:
 
 exclude:
   - LICENSE
-  - README.md
+  - readme.md
   - Gemfile
   - vendor
 
