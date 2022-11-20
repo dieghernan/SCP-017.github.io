@@ -1,9 +1,16 @@
 ---
-title: microG
-subtitle: microG Project
+layout: minimal
 ---
 
 <img src="https://is.gd/PZinky" style="width: 45%">
+
+<h2><p align="center"> microG </p></h2>
+
+<p align="center">
+<sub>
+By : microG Project
+</sub>
+</p>
 
 ![](https://is.gd/ghwVrE)
 
