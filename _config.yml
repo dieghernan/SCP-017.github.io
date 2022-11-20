@@ -11,7 +11,7 @@ navbar:
   nav:
   - title: ReVanced
     child:
-     - title: What is ReVanced?
+     - title: ReVanced Info
        url: /revanced/home
      - title: microG
        url: /revanced/micro-g
@@ -19,7 +19,7 @@ navbar:
        url: /revanced/nyx
 
 chulapa-skin: 
-  skin: deeply
+  skin: twitter-lights-out
 
 #### Defaults (Do not modify.)
 defaults:
