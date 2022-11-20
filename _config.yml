@@ -6,6 +6,7 @@ navbar:
   style: "classic"
   brand:
     title: Home
+    img: "https://is.gd/5QfbUt"
   nav:
   - title: ReVanced
     child:
