@@ -1,6 +1,6 @@
 ---
 title: microG
-subtitle: Offered by: microG Project
+subtitle: microG Project
 ---
 
 <img src="https://is.gd/PZinky" style="width: 45%">
