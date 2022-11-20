@@ -14,8 +14,6 @@ navbar:
     child:
      - title: Home
        url: /pages/revanced/home
-     - title: All Packages
-       url: /pages/revanced/packages
      - title: microG
        url: /pages/revanced/packages/micro-g/main
      - title: Nyx Music Player
