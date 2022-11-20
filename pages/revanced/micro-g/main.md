@@ -4,11 +4,13 @@ title: microG
 
 <img src="https://is.gd/PZinky" style="width: 45%">
 
+<p align="center">
 <sub>
 microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
 </sub>
+</p>
 
-## <p align="center"> Version </p>
+<p align="center"><b> Version </b></p>
 
 ![](https://is.gd/NhJM6k)
 
