@@ -1,7 +1,6 @@
 remote_theme: dieghernan/chulapa
 
 title: Page Title
-subtitle: Page subtitle.
 url:
 baseurl:
 
@@ -15,12 +14,12 @@ navbar:
      - title: What is ReVanced?
        url: /revanced/home
      - title: microG
-       url: /revanced/packages/micro-g
+       url: /revanced/micro-g
      - title: Nyx Music Player
-       url: /revanced/packages/nyx
+       url: /revanced/nyx
 
 chulapa-skin: 
-  skin: twitter-lights-out
+  skin: deeply
 
 #### Defaults (Do not modify.)
 defaults:
