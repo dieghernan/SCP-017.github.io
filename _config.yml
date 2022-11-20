@@ -1,0 +1,88 @@
+remote_theme: dieghernan/chulapa
+
+navbar:
+  style: "dual"
+  brand:
+    title: Navbar Title
+
+chulapa-skin: 
+  skin: twitter-dim
+
+#### Defaults (Do not modify.)
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      header_type: "base"
+      include_on_search   : false
+      cloudtag_url        : "/tags"
+      cloudcategory_url   : "/categories"
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      header_type       : "post"
+      include_on_search : true
+      include_on_feed   : true
+      show_date         : true
+      show_bottomnavs   : true
+      show_sociallinks  : true
+      show_comments     : true
+      show_tags         : true
+      show_categories   : true
+      show_author       : true
+      show_toc          : false
+  -
+    scope:
+      path: ""
+      type: "demo"
+    values:
+      header_type       : "hero"
+      show_bottomnavs   : true
+      show_sociallinks  : true
+      include_on_search : true
+      include_on_feed   : true
+
+compress_html:
+  clippings: all
+  blanklines: true
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor
+
+include:
+ - _pages
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  footnote_backlink: '&uarr;'
+  entity_output: as_char
+  toc_levels: 2..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
