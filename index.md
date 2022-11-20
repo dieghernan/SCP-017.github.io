@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: landingpage
 title: Landing Page Title
 header_type: splash
 header_img: "https://is.gd/b8kMrc"
