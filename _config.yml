@@ -1,11 +1,9 @@
 remote_theme: dieghernan/chulapa
 
-title: Page Title
-url:
-baseurl:
+title: SCP-017
 
 navbar:
-  style: "dual"
+  style: "classic"
   brand:
     title: Home
   nav:
@@ -17,6 +15,13 @@ navbar:
        url: /revanced/micro-g
      - title: Nyx Music Player
        url: /revanced/nyx
+
+footer:
+  links:
+    - label : GitHub
+      icon  : fab fa-github
+      url   : https://github.com/SCP-017
+  copyright: © 2022
 
 chulapa-skin: 
   skin: twitter-lights-out
