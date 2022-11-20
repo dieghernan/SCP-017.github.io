@@ -12,7 +12,7 @@ microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow a
 </sub>
 </p>
 
-<h2><p align="center"> Download </p></h2>
+<h4><p align="center"> Download </p></h4>
 
 [![](https://is.gd/nl2yMm)](https://is.gd/KAR5Gu)
 
