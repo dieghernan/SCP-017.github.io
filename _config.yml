@@ -27,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "minimal"
+      layout: "default"
       header_type: "base"
       include_on_search   : false
       cloudtag_url        : "/tags"
