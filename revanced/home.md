@@ -12,9 +12,9 @@ layout: minimal
 </a>
 </p>
 
-<p align="center"> <i>
+<p align="center"> <sub> <i>
 ReVanced is an unofficial continuation of Vanced and is unaffiliated with Vanced.
-</i> </p>
+</i> </sub> </p>
 
 ---
 
