@@ -1,6 +1,5 @@
 ---
 layout: minimal
-header_img: https://is.gd/uVvIMS
 ---
 
 ![](https://is.gd/3FVYMW)
@@ -24,3 +23,7 @@ microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow a
 [![](https://is.gd/mm7j5Y)](https://is.gd/iIBAm2)
 
 [![](https://is.gd/PeFOqE)](https://is.gd/KAR5Gu)
+
+---
+
+![](https://is.gd/uVvIMS)
