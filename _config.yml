@@ -44,6 +44,11 @@ navbar:
      - title: YouTube Music
        url: /revanced/youtube.music
 
+  - title: Misc
+    child:
+     - title: Lofi Stream
+       url: /misc/stream.lofi
+
 footer:
   links:
     - label : Facebook
