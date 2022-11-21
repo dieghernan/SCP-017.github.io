@@ -1,6 +1,7 @@
 remote_theme: dieghernan/chulapa
 
 title: SCP-017
+subtitle: Private Portfolio
 
 navbar:
   style: "classic"
@@ -51,6 +52,9 @@ footer:
     - label : GitHub
       icon  : fab fa-github
       url   : https://github.com/SCP-017
+    - label : Proton Mail
+      icon  : fa fa-envelope-o
+      url   : ph.server@pm.me
   copyright: © 2022 by SCP-017
 
 chulapa-skin: 
