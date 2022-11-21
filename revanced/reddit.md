@@ -13,11 +13,11 @@ layout: minimal
 ---
 
 <p align="center"> <sub>
-microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
+The Reddit Official App is the official app of the giant Reddit, one of the largest communities of Internet users, and one of the reference sites to stay up to date with current issues. It also includes forums on almost any topic you can think of.
 </sub> </p>
 
 ---
 
 <h4> <p align="center"> Download </p> </h4>
 
-[![](https://is.gd/NhPebx)](https://is.gd/iobwfF)
+[![](https://is.gd/4chqON)](https://is.gd/iobwfF)
