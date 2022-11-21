@@ -49,6 +49,11 @@ navbar:
      - title: Stream Music
        url: /misc/stream.music
 
+     - title: Test Child
+       child:
+        - title: Test Child 2
+          url: /misc/stream.music/spongeboy.lofi
+
 footer:
   links:
     - label : Facebook
