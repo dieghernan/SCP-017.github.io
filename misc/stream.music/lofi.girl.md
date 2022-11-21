@@ -10,4 +10,4 @@ layout: minimal
 
 ---
 
-![](https://m.youtube.com/watch?v=6Qq2OMFh8Pc)
+![](https://www.youtube.com/watch?v=6Qq2OMFh8Pc)
