@@ -11,4 +11,4 @@ YouTubeID: bTqVqk7FSmY
 
 ---
 
-{% include plyrYoutube.html youtube=page.YouTubeID %}
+![](https://is.gd/uVvIMS)
