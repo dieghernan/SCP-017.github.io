@@ -8,7 +8,7 @@ layout: minimal
 
 <p align="center">
 <a href="https://revanced.app">
-<img src="https://is.gd/3We1to">
+<img src="https://is.gd/P0bMUn">
 </a>
 </p>
 
@@ -66,3 +66,6 @@ ReVanced is an unofficial continuation of Vanced and is unaffiliated with Vanced
 </a>
 </p>
 
+---
+
+![](https://is.gd/uVvIMS)
