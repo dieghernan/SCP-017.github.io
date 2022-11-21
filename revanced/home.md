@@ -61,5 +61,6 @@ ReVanced is an unofficial continuation of Vanced and is unaffiliated with Vanced
 <p align="center">
 <a href="https://is.gd/QGEbzP">
 <img src="https://is.gd/p9FBUQ">
+</a>
 </p>
 
