@@ -46,7 +46,7 @@ navbar:
 
   - title: Misc
     child:
-     - title: Lofi Stream
+     - title: Stream Music
        url: /misc/stream.music
 
 footer:
