@@ -21,3 +21,7 @@ Nyx Music Player 👻 is one of the Most Gorgeous Music Player 😍 available on
 <h4><p align="center"> Download </p> </h4>
 
 [![](https://is.gd/sRgIK3)](https://is.gd/uNwGd7)
+
+---
+
+![](https://is.gd/uVvIMS)
