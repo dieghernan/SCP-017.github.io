@@ -1,5 +1,6 @@
 ---
 layout: minimal
+YouTubeID: bTqVqk7FSmY
 ---
 
 {% include snippets/video.html id="jfKfPfyJRdk" provider="youtube" %}
@@ -10,4 +11,4 @@ layout: minimal
 
 ---
 
-![](https://www.youtube.com/watch?v=6Qq2OMFh8Pc)
+{% include plyrYoutube.html youtube=page.YouTubeID %}
