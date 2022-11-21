@@ -53,7 +53,7 @@ footer:
       icon  : fab fa-github
       url   : https://github.com/SCP-017
     - label : Proton Mail
-      icon  : fa fa-envelope-o
+      icon  : fa fa-envelope
       url   : ph.server@pm.me
   copyright: © 2022 by SCP-017
 
