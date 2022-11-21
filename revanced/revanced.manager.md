@@ -20,4 +20,4 @@ The official ReVanced Manager.
 
 <h4> <p align="center"> Download </p> </h4>
 
-[![](https://is.gd/FelMz8)](https://is.gd/WAaR8n)
+[![](https://is.gd/cZTWaX)](https://is.gd/WAaR8n)
