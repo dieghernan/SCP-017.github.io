@@ -1,5 +1,6 @@
 ---
 layout: minimal
+og_image: https://is.gd/uVvIMS
 ---
 
 ![](https://is.gd/3FVYMW)
