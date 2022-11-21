@@ -44,15 +44,22 @@ navbar:
      - title: YouTube Music
        url: /revanced/youtube.music
 
-  - title: Misc
+  - title: Stream Music
     child:
-     - title: Stream Music
-       url: /misc/stream.music
+     - title: Stream Lofi Girl
+       url: /misc/stream.music/lofi.girl
 
-     - title: Test Child
-       child:
-        - title: Test Child 2
-          url: /misc/stream.music/spongeboy.lofi
+     - title: Stream SpongeBoy Lofi
+       url: /misc/stream.music/spongeboy.lofi
+
+     - title: Stream The Bootleg Boy 2
+       url: /misc/stream.music/the.bootleg.boy.2
+
+     - title: Stream NCS Arcade
+       url: /misc/stream.music/ncs.arcade
+
+     - title: Stream Nostalgic
+       url: /misc/stream.music/nostalgic
 
 footer:
   links:
