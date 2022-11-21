@@ -1,10 +1,9 @@
 ---
+title: "microG"
 header_img: https://is.gd/uVvIMS
 ---
 
 ![](https://is.gd/3FVYMW)
-
-<h4> <p align="center"> microG </p> </h4>
 
 <p align="center"> By : microG Project </p>
 
