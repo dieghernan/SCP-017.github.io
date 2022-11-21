@@ -6,4 +6,4 @@ layout: minimal
 
 ---
 
-<p align="center"> <b> @SpongeBoy Lofi </b> </p>
+<h4> <p align="center"> @SpongeBoy Lofi </p> </h4>
