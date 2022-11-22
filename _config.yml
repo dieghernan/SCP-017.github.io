@@ -12,45 +12,45 @@ navbar:
   - title: ReVanced
     child:
      - title: Info
-       url: /revanced/home
+       url: /pages/revanced/home
      - title: microG
-       url: /revanced/micro-g
+       url: /pages/revanced/micro-g
      - title: Nyx Music Player
-       url: /revanced/nyx
+       url: /pages/revanced/nyx
      - title: Reddit
-       url: /revanced/reddit
+       url: /pages/revanced/reddit
      - title: ReVanced Manager
-       url: /revanced/revanced.manager
+       url: /pages/revanced/revanced.manager
      - title: Spotify
-       url: /revanced/spotify
+       url: /pages/revanced/spotify
      - title: TikTok
-       url: /revanced/tiktok
+       url: /pages/revanced/tiktok
      - title: Twitch
-       url: /revanced/twitch
+       url: /pages/revanced/twitch
      - title: Twitter
-       url: /revanced/twitter
+       url: /pages/revanced/twitter
      - title: YouTube
-       url: /revanced/youtube
+       url: /pages/revanced/youtube
      - title: YouTube Music
-       url: /revanced/youtube.music
+       url: /pages/revanced/youtube.music
 
   - title: Alternatives
     child:
      - title: xManager-Spotify
-       url: /alternatives/x.manager.spotify
+       url: /pages/alternatives/x.manager.spotify
 
   - title: Stream Music
     child:
      - title: Stream Lofi Girl
-       url: /misc/stream.music/lofi.girl
+       url: /pages/misc/stream.music/lofi.girl
      - title: Stream NCS Arcade
-       url: /misc/stream.music/ncs.arcade
+       url: /pages/misc/stream.music/ncs.arcade
      - title: Stream Nostalgic
-       url: /misc/stream.music/nostalgic
+       url: /pages/misc/stream.music/nostalgic
      - title: Stream SpongeBoy Lofi
-       url: /misc/stream.music/spongeboy.lofi
+       url: /pages/misc/stream.music/spongeboy.lofi
      - title: Stream The Bootleg Boy 2
-       url: /misc/stream.music/the.bootleg.boy.2
+       url: /pages/misc/stream.music/the.bootleg.boy.2
 
 footer:
   links:
