@@ -71,8 +71,10 @@ chulapa-skin:
   skin: twitter-lights-out
 
 comments:
-  provider: disqus #https://disqus.com
-  disqus_shortname: scp-017
+  provider: giscus #https://giscus.app
+
+#  provider: disqus #https://disqus.com
+#  disqus_shortname: scp-017
 
 #### Defaults (Do not modify.)
 defaults:
