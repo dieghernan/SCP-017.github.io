@@ -13,36 +13,31 @@ navbar:
     child:
      - title: Info
        url: /revanced/home
-
      - title: microG
        url: /revanced/micro-g
-
      - title: Nyx Music Player
        url: /revanced/nyx
-
      - title: Reddit
        url: /revanced/reddit
-
      - title: ReVanced Manager
        url: /revanced/revanced.manager
-
      - title: Spotify
        url: /revanced/spotify
-
      - title: TikTok
        url: /revanced/tiktok
-
      - title: Twitch
        url: /revanced/twitch
-
      - title: Twitter
        url: /revanced/twitter
-
      - title: YouTube
        url: /revanced/youtube
-
      - title: YouTube Music
        url: /revanced/youtube.music
+
+  - title: Alternatives
+    child:
+     - title: xManager-Spotify
+       url: /alternatives/x.manager.spotify
 
   - title: Stream Music
     child:
