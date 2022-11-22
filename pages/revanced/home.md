@@ -42,7 +42,7 @@ ReVanced is an unofficial continuation of Vanced and is unaffiliated with Vanced
 </p>
 
 <p align="center">
-<img src="https://is.gd/tKLD8V">
+<img src="https://is.gd/uoB7vj">
 </p>
 
 ---
