@@ -43,16 +43,12 @@ navbar:
     child:
      - title: Stream Lofi Girl
        url: /misc/stream.music/lofi.girl
-
      - title: Stream NCS Arcade
        url: /misc/stream.music/ncs.arcade
-
      - title: Stream Nostalgic
        url: /misc/stream.music/nostalgic
-
      - title: Stream SpongeBoy Lofi
        url: /misc/stream.music/spongeboy.lofi
-
      - title: Stream The Bootleg Boy 2
        url: /misc/stream.music/the.bootleg.boy.2
 
