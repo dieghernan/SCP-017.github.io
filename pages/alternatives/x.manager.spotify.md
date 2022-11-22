@@ -21,7 +21,7 @@ Our aim is to make a simple yet useful manager app for everyone's convenience. O
 
 <h4> <p align="center"> Download </p> </h4>
 
-[![](https://is.gd/Pg9r3u)](https://is.gd/7hmbvT)
+[![](https://is.gd/Pg9r3u)](https://is.gd/xuWw0N)
 
 ---
 
