@@ -1,5 +1,6 @@
 ---
 layout: minimal
+show_comments: true
 ---
 
 {% include snippets/video.html id="ceqgwo7U28Y" provider="youtube" %}
