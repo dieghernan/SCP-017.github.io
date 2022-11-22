@@ -21,7 +21,7 @@ ReVanced is an unofficial continuation of Vanced and is unaffiliated with Vanced
 
 ---
 
-<h4> <p align="center"> Repo Stats </p> </h4>
+<h4> <p align="center"> ReVanced Info </p> </h4>
 
 <p align="center">
 <a href="https://is.gd/3eJ6uZ">
