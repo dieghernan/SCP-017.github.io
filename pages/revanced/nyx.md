@@ -1,5 +1,6 @@
 ---
 layout: minimal
+show_comments: true
 ---
 
 ![](https://is.gd/uvC3jA)
