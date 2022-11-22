@@ -6,7 +6,7 @@ layout: minimal
 
 ---
 
-{% include snippets/video.html fileurl="https://yewtu.be/embed/jfKfPfyJRdk" %}
+{% include snippets/video.html fileurl="https://invidious.slipfox.xyz/jfKfPfyJRdk?t=15" %}
 
 ---
 
