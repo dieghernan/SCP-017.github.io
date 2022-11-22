@@ -36,6 +36,8 @@ navbar:
 
   - title: Alternatives
     child:
+     - title: Infinity for Reddit
+       url: /pages/alternatives/infinity.for.reddit
      - title: xManager-Spotify
        url: /pages/alternatives/x.manager.spotify
 
