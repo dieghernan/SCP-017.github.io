@@ -3,7 +3,7 @@ layout: minimal
 show_comments: true
 ---
 
-![](https://is.gd/ZdFPjD)
+![](https://is.gd/4XJqSj)
 
 <h4> <p align="center"> Infinity For Reddit </p> </h4>
 
@@ -21,7 +21,7 @@ A Reddit client on Android written in Java. It does not have any ads and it feat
 
 <h4> <p align="center"> Download </p> </h4>
 
-[![](https://is.gd/lc1jGj)](https://is.gd/pzlky4)
+[![](https://is.gd/lc1jGj)](https://is.gd/v8fsq9)
 
 ---
 
