@@ -6,10 +6,6 @@ layout: minimal
 
 ---
 
-{% include snippets/video.html fileurl="https://invidious.slipfox.xyz/jfKfPfyJRdk?t=15" %}
-
----
-
 <h4> <p align="center"> @Lofi Girl </p> </h4>
 
 ---
