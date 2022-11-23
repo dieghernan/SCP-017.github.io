@@ -2,8 +2,8 @@
 layout: indexcategory
 title: "Demos"
 subtitle: All demos in one place
-permalink: /demo
-include_collection: demo
+permalink: /myposts
+include_collection: myposts
 ---
 
 This is an example of how to create a index for a specific collection, in this case `demo`.
