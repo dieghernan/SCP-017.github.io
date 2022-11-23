@@ -1,4 +1,5 @@
 ---
+layout: minimal
 header_img: https://is.gd/uVvIMS
 ---
 
