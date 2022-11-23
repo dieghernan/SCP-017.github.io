@@ -10,7 +10,7 @@ navbar:
     img: "https://is.gd/5QfbUt"
   nav:
   - title: My Posts
-    url: /my.posts
+    url: /pages/my.posts
 
   - title: ReVanced
     child:
@@ -107,9 +107,6 @@ exclude:
   - readme.md
   - Gemfile
   - vendor
-
-include:
-  - pages
 
 markdown: kramdown
 highlighter: rouge
