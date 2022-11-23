@@ -10,7 +10,7 @@ navbar:
     img: "https://is.gd/5QfbUt"
   nav:
   - title: My Posts
-    url: /pages/my.posts
+    url: /pages/index.pages/my.posts
 
   - title: ReVanced
     child:
