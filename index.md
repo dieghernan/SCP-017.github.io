@@ -37,4 +37,4 @@ show_comments: true
 ---
 
 <p align="center"> 👁️ </p>
-<p align="center"> <sub> I'll be watching you stranger. </sub> </p>
+<p align="center"> <sub> I will be watching you stranger. </sub> </p>
