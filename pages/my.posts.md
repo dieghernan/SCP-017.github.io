@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: indexcategory
 include_collection: my.posts
 ---
 
