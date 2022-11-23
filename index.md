@@ -34,7 +34,7 @@ show_comments: true
 <img src='https://www.websitecounterfree.com/c.php?d=9&id=24855&s=36' border='0' alt='Free Website Counter'>
 </a>
 
----
+<hr>
 
 <p align="center"> 👁️ </p>
 <p align="center"> <sub> I will be watching you stranger. </sub> </p>
