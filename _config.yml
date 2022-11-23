@@ -10,7 +10,7 @@ navbar:
     img: "https://is.gd/5QfbUt"
   nav:
   - title: My Posts
-    url: /myposts
+    url: /my.posts
   - title: ReVanced
     child:
      - title: Info
@@ -82,15 +82,10 @@ comments:
 
 #### Defaults (Do not modify.)
 collections:
-  myposts:
+  my.posts:
     output: true
-    permalink: /myposts/:name
-collections_dir     : collections
-
-permalink           : /:year:month:day_:title/
-paginate: 4
-paginate_path: "/blog/page:num/"
-paginator_maxnum: 3 
+    permalink: /my.posts/:name
+collections_dir     : pages/collections
 
 defaults:
   -
@@ -103,7 +98,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "myposts"
+      type: "my.posts"
     values:
       header_type: "post"
       include_on_search   : false
@@ -126,7 +121,7 @@ exclude:
   - vendor
 
 include:
- - _pages
+ - my.posts
 
 markdown: kramdown
 highlighter: rouge
