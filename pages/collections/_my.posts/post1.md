@@ -1,6 +1,5 @@
 ---
-layout: default
-Title: What title?
+layout: minimal
 header_img: https://is.gd/uVvIMS
 ---
 
