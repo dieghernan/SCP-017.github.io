@@ -1,6 +1,5 @@
 ---
 layout: indexcategory
-permalink: /my.posts
 include_collection: my.posts
 ---
 
