@@ -13,7 +13,7 @@ navbar:
     child:
      - title: Info
        url: /pages/revanced/home
-     - title: microG
+     - title: microG (Fork)
        url: /pages/revanced/micro-g
      - title: Nyx Music Player
        url: /pages/revanced/nyx
