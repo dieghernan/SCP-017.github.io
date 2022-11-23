@@ -10,7 +10,7 @@ navbar:
     img: "https://is.gd/5QfbUt"
   nav:
   - title: My Posts
-    url: /my.posts
+    url: /my.homepages
   - title: ReVanced
     child:
      - title: Info
@@ -81,28 +81,18 @@ comments:
 #  disqus_shortname: scp-017
 
 #### Defaults (Do not modify.)
+# Pages path for collections (ex. _collection.homepages)
+include:
+ - collection.homepages
+
+# Collections path where you place your posts. (ex. pages/collections/_my.posts/post1.md)
 collections:
   my.posts:
     output: true
     permalink: /my.posts/:name
-collections_dir     : pages/collections
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-      header_type         : "base"
-      include_on_search   : false
-  -
-    scope:
-      path: ""
-      type: "my.posts"
-    values:
-      header_type: "post"
-      include_on_search   : false
-      show_comments     : true
+# Collections directory path. (ex. pages/collections or yourpreferredname/yourpreferredname)
+collections_dir     : pages/collections
 
 compress_html:
   clippings: all
@@ -119,9 +109,6 @@ exclude:
   - readme.md
   - Gemfile
   - vendor
-
-include:
- - my.posts
 
 markdown: kramdown
 highlighter: rouge
