@@ -10,7 +10,7 @@ navbar:
     img: "https://is.gd/5QfbUt"
   nav:
   - title: My Posts
-    url: /my.posts
+    url: /pages/my.posts
 
   - title: ReVanced
     child:
@@ -82,9 +82,6 @@ comments:
 #  disqus_shortname: scp-017
 
 #### Defaults (Do not modify.)
-# Pages path for collections (ex. _collection.homepages)
-include:
- - collection.homepages
 
 # Collections path where you place your posts. (ex. pages/collections/_my.posts/post1.md)
 collections:
