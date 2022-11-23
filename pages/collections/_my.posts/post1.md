@@ -1,5 +1,5 @@
 ---
-title: Plain page
+layout: minimal
 ---
 
 This is how a plain page would look like. The layout and header type have been already set on the `_config` file as defaults:
