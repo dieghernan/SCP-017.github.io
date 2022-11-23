@@ -29,7 +29,10 @@ show_comments: true
 
 <h4> <p align="center"> Total Strangers Visited </p> </h4>
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=24855&s=36' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
+<div align='center'>
+<a href='https://www.websitecounterfree.com'>
+<img src='https://www.websitecounterfree.com/c.php?d=9&id=24855&s=36' border='0' alt='Free Website Counter'>
+</a>
 
 ---
 
