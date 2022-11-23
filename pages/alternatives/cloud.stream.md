@@ -27,15 +27,44 @@ Android app for streaming and downloading Movies, TV-Series and Anime.
 
 <h4> <p align="center"> Repository Extensions </p> </h4>
 
-| Extended Name | URL |
-| --- | --- |
-| English | https://is.gd/zXGBFw |
-| Multilingual | https://is.gd/PHqOKk |
-| Hexated | https://is.gd/alcdB0 |
-| Arabic | https://is.gd/sk0Lmx |
-| CS3XXX | https://is.gd/E1GIEq |
-| Daarkdemon | https://is.gd/Mwgtm0 |
-| Tamil | https://is.gd/5tMADv |
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%">
+	<thead>
+		<tr>
+			<th scope="row">Name</th>
+			<th scope="col">URL</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">English</th>
+			<td>&nbsp;https://is.gd/zXGBFw&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">Multilingual</th>
+			<td>&nbsp;https://is.gd/PHqOKk&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">Hexated</th>
+			<td>&nbsp;https://is.gd/alcdB0&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">Arabic</th>
+			<td>&nbsp;https://is.gd/sk0Lmx&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">CS3XXX</th>
+			<td>&nbsp;https://is.gd/E1GIEq&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">Daarkdemon</th>
+			<td>&nbsp;https://is.gd/Mwgtm0&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row">Tamil</th>
+			<td>&nbsp;https://is.gd/5tMADv&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 
