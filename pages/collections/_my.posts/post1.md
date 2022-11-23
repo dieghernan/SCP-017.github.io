@@ -1,4 +1,5 @@
 ---
+layout: default
 Title: What title?
 header_img: https://is.gd/uVvIMS
 ---
