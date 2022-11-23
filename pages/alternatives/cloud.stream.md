@@ -25,4 +25,24 @@ Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ---
 
+<h4> <p align="center"> Repository Extensions </p> </h4>
+
+| Extended Name | URL |
+| --- | --- |
+| English | https://is.gd/zXGBFw |
+| Multilingual | https://is.gd/PHqOKk |
+| Hexated | https://is.gd/alcdB0 |
+| Arabic | https://is.gd/sk0Lmx |
+| CS3XXX | https://is.gd/E1GIEq |
+| Daarkdemon | https://is.gd/Mwgtm0 |
+| Tamil | https://is.gd/5tMADv |
+
+---
+
+<p align="center"> <sub>
+Be sure to add your own desired extensions listed in <b>Settings > Extensions > Add repository</b>.
+</sub> </p>
+
+---
+
 ![](https://is.gd/uVvIMS)
