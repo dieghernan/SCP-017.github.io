@@ -79,6 +79,17 @@ comments:
 #  disqus_shortname: scp-017
 
 #### Defaults (Do not modify.)
+collections:
+  myposts:
+    output: true
+    permalink: /myposts/:name
+collections_dir     : collections
+
+permalink           : /:year:month:day_:title/
+paginate: 4
+paginate_path: "/blog/page:num/"
+paginator_maxnum: 3 
+
 defaults:
   -
     scope:
@@ -90,9 +101,8 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "myposts"
     values:
-      layout: "default"
       header_type: "post"
       include_on_search   : false
       show_comments     : true
