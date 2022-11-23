@@ -3,17 +3,4 @@ layout: indexcategory
 include_collection: my.posts
 ---
 
-This is an example of how to create a index for a specific collection, in this case `demo`.
-
-The front matter of this page is 
-
-```yaml
----
-layout: indexcategory
-title: "Demos"
-subtitle: All demos in one place
-permalink: /demo
-include_collection: demo
-og_image: /assets/img/site/banner-demos.png
----
-```
+<h4> <p align="center"> Here's some wisdom, stranger. </p> </h4>
