@@ -37,31 +37,31 @@ Android app for streaming and downloading Movies, TV-Series and Anime.
 	<tbody>
 		<tr>
 			<th scope="row">English</th>
-			<td>&nbsp;https://is.gd/zXGBFw&nbsp;</td>
+			<td>&nbsp;http://is.gd/zXGBFw&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">Multilingual</th>
-			<td>&nbsp;https://is.gd/PHqOKk&nbsp;</td>
+			<td>&nbsp;http://is.gd/PHqOKk&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">Hexated</th>
-			<td>&nbsp;https://is.gd/alcdB0&nbsp;</td>
+			<td>&nbsp;http://is.gd/alcdB0&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">Arabic</th>
-			<td>&nbsp;https://is.gd/sk0Lmx&nbsp;</td>
+			<td>&nbsp;http://is.gd/sk0Lmx&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">CS3XXX</th>
-			<td>&nbsp;https://is.gd/E1GIEq&nbsp;</td>
+			<td>&nbsp;http://is.gd/E1GIEq&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">Daarkdemon</th>
-			<td>&nbsp;https://is.gd/Mwgtm0&nbsp;</td>
+			<td>&nbsp;http://is.gd/Mwgtm0&nbsp;</td>
 		</tr>
 		<tr>
 			<th scope="row">Tamil</th>
-			<td>&nbsp;https://is.gd/5tMADv&nbsp;</td>
+			<td>&nbsp;http://is.gd/5tMADv&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
