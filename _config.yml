@@ -36,6 +36,8 @@ navbar:
 
   - title: Alternatives
     child:
+     - title: CloudStream
+       url: /pages/alternatives/cloud.stream.md
      - title: Infinity for Reddit
        url: /pages/alternatives/infinity.for.reddit
      - title: xManager-Spotify
