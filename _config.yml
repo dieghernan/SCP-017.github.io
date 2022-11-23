@@ -108,6 +108,9 @@ exclude:
   - Gemfile
   - vendor
 
+include:
+  - pages
+
 markdown: kramdown
 highlighter: rouge
 lsi: false
