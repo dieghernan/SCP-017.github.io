@@ -9,6 +9,8 @@ navbar:
     title: Home
     img: "https://is.gd/5QfbUt"
   nav:
+  - title: My Posts
+    url: /myposts
   - title: ReVanced
     child:
      - title: Info
