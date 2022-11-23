@@ -21,7 +21,7 @@ Android app for streaming and downloading Movies, TV-Series and Anime.
 
 <h4> <p align="center"> Download </p> </h4>
 
-[![](https://is.gd/HFbHPq)](https://is.gd/vr3LhT)
+[![](https://is.gd/HFbHPq)](https://is.gd/hlMBA8)
 
 ---
 
