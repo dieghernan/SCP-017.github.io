@@ -39,6 +39,8 @@ Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ---
 
+<h4> <p align="center"> Note </p> </h4>
+
 <p align="center"> <sub>
 Be sure to add your own desired extensions listed in <b>Settings > Extensions > Add repository</b>.
 </sub> </p>
