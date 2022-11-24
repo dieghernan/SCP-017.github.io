@@ -1,6 +1,6 @@
 ---
-layout: minimal
-header_img: https://is.gd/uVvIMS
+layout: default
+header_img: /assets/site/banner.jpg
 ---
 
 This is how a plain page would look like. The layout and header type have been already set on the `_config` file as defaults:
