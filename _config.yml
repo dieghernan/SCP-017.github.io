@@ -3,6 +3,18 @@ remote_theme: dieghernan/chulapa
 title: SCP-017
 subtitle: Private Portfolio
 
+author:
+  name                  :      SCP-017
+  avatar                :      https://avatars.githubusercontent.com/u/112224835
+  location              :      Site-19
+  links:                
+    - url: https://fb.me/fb.me.2
+      icon: "fab fa-facebook"
+    - url: https://github.com/SCP-017
+      icon: "fab fa-github"
+    - url: ph.server@pm.me
+      icon: "fa fa-envelope"
+
 navbar:
   style: "classic"
   brand:
@@ -90,6 +102,25 @@ collections:
 
 # Collections directory path. (ex. pages/collections or yourpreferredname/yourpreferredname)
 collections_dir     : pages/_collections
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      header_type         : "base"
+      include_on_search   : false
+      cloudtag_url        : "/tags"
+      cloudcategory_url   : "/categories"
+  -
+    scope:
+      path: ""
+      type: "my.posts"
+    values:
+      header_type       : "post"
+      show_comments     : true
+      show_author       : true
 
 compress_html:
   clippings: all
