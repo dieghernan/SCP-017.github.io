@@ -1,5 +1,4 @@
 ---
-layout: default
 header_img: /assets/site/banner.jpg
 ---
 
