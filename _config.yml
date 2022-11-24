@@ -82,7 +82,6 @@ comments:
 #  disqus_shortname: scp-017
 
 #### Defaults (Do not modify.)
-
 # Collections path where you place your posts. (ex. pages/collections/_my.posts/post1.md)
 collections:
   my.posts:
@@ -90,7 +89,7 @@ collections:
     permalink: /my.posts/:name
 
 # Collections directory path. (ex. pages/collections or yourpreferredname/yourpreferredname)
-collections_dir     : pages/collections
+collections_dir     : pages/_collections
 
 compress_html:
   clippings: all
