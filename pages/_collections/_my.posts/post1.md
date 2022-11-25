@@ -2,17 +2,17 @@
 title: How to block ads on YouTube
 subtitle: A quick insight and things you have to know.
 ---
-
 ---
 
-# Introduction
+## Introduction
 It is very possible that you are already aware of all that — after all, it is common knowledge that YouTube is extremely popular. And given that you found this article, you probably spend some time on YouTube every day yourself, contributing to the stats. And, of course, it can be safely assumed that you are not too happy that a noticeable portion of that time has to be spent on viewing ads, when you're just waiting for the skip button instead of watching the actual videos. Wouldn't it be great if you could just watch YouTube uninterrupted, without unskippable ads?
 
 So let's have a glance at how to block ads on YouTube, and reasons to why your adblock is not working on YouTube as you want it to.
 
 ---
 
-# Types of YouTube ads
+## Types of ads
+
 | Ad Format | Description |
 | --- | --- |
 | Display ads | Shows up next to the video (Desktop and laptop PCs only). |
@@ -25,13 +25,14 @@ So let's have a glance at how to block ads on YouTube, and reasons to why your a
 
 ---
 
-# How to stop all these ads on YouTube?
+## How to stop all these ads on YouTube?
 There are, in fact, several ways to deal with YouTube ads. Which is good, as not all methods suit all people — there's a room for personal preference. Study the available options and choose the one that works best for you.
 
-## 1. YouTube ReVanced
+### 1. YouTube ReVanced
 Just like when you need to blow leaves away you're grabbing a leafblower, when you want to block ads it's only logical to look for an AdBlocker.
 
 Let's have a look at pros and cons of using a modified YouTube app:
+
 | Pros | Cons |
 | --- | --- |
 | Block ads on YouTube mobile app. | Can be taken down anytime by Google LLC. |
@@ -73,10 +74,11 @@ To solve the problem, please see the possible solutions below to fix your proble
 - Check your Android version, Make sure your current Android version is 8.0+, the minimum required Android version for the apps to work.
 - Redownload the apps.
 
-## 2. Install browser extensions.
+### 2. Install browser extensions.
 This method is quite limited only for PC browsers, but it can also be done in mobile if you install a browser called "Kiwi Browser".
 
 Let's have a look at pros and cons of using an extensions in mobile and PC browsers:
+
 | Pros | Cons |
 | --- | --- |
 | Can exactly do the same AdBlocking of YouTube ReVanced. | Limited for browsers only. |
@@ -119,7 +121,7 @@ What's next? It's obvious, start now to watch on YouTube without experiencing ad
 
 ---
 
-# Final words
+## Final words
 
 #### Are ad blockers legal?
 Absolutely. To have a grasp of the historical background, search for the battle of Eyeo, an ad-blocking company, and Axel Springer, a publishing company. Their conflict was arbitrated by German court proving that ad blocking is legal, and hence, that users can and should control what they see on the Internet.
@@ -132,11 +134,11 @@ Lesser known, free apps, not just ad blockers, are often riddled with trackers. 
 
 ----
 
-***Thank you for reading till the end! Hopefully, the article was helpful. Stay safe and untroubled out there online!***
+***Thank you for reading till the end! Hopefully, you found this post helpful. Stay safe and untroubled out there online!***
 
 ---
 
-# © Credits
+## © Credits
 - -Vortex- from PH Corner
 - AdGuard
 - ReVanced.io
