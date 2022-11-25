@@ -70,3 +70,4 @@ Because of this, Storj is also faster, cheaper, and more secure than traditional
 
 **Storj Docs** : https://docs.storj.io/dcs
 
+**Storj Pricing** : https://www.storj.io/pricing
