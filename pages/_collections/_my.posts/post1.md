@@ -1,7 +1,6 @@
 ---
-title: How to block ads on YouTube
+title: How to block ads on YouTube?
 subtitle: A quick insight and things you have to know.
----
 ---
 
 ## Introduction
