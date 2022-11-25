@@ -121,6 +121,7 @@ defaults:
       header_type       : "post"
       show_comments     : true
       show_author       : true
+      header_img        : /assets/site/banner.jpg
 
 compress_html:
   clippings: all
