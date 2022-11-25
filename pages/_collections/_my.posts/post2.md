@@ -13,6 +13,11 @@ Storj is a platform, cryptocurrency, and suite of decentralized applications tha
 
 Because of this, Storj is also faster, cheaper, and more secure than traditional cloud storage platforms.
 
+**Huge Storage**
+- Get 150 GB Storage and Bandwidth Limit per month on the decentralized cloud for free on Storj DCS. Perfect for developers and smaller projects.
+
+- Get a monthly deal of 4$ per Terabyte of Storage and 7$ per Terabyte of Bandwidth when you subscribe for their Pro Account.
+
 **Faster**
 - Multiple machines are serving your file´s pieces simultaneously.
 
@@ -22,10 +27,10 @@ Because of this, Storj is also faster, cheaper, and more secure than traditional
 **Most Secure**
 - Your files are both encrypted and shredded. There is no need to trust a corporation, vulnerable servers, or employees with your files. Storj completely removes trust from the equation.
 
-Storj uses public/private key encryption, and cryptographic hash functions for security. To best protect your data, files are encrypted client-side on your computation device before they are uploaded. Each file is split up into chunks which are first encrypted and then distributed across the Storj network. The network is comprised of Storj nodes run by users around the world who rent out their unused hard drive space in return for STORJ Token (STORJ).
-
 **Store it on a better cloud.**
 - Store data securely on over 16k nodes worldwide instead of just a few vulnerable data centers with privacy and CDN-like performance by design.
+
+<sub> Storj uses public/private key encryption, and cryptographic hash functions for security. To best protect your data, files are encrypted client-side on your computation device before they are uploaded. Each file is split up into chunks which are first encrypted and then distributed across the Storj network. The network is comprised of Storj nodes run by users around the world who rent out their unused hard drive space in return for STORJ Token (STORJ). </sub>
 
 ---
 
