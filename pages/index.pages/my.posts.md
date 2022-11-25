@@ -1,5 +1,6 @@
 ---
 layout: indexcategory
+title: My Posts
 include_collection: my.posts
 ---
 
