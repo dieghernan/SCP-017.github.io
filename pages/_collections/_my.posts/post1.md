@@ -4,8 +4,6 @@ subtitle: A quick insight and things you have to know.
 ---
 
 ### Introduction
-We watch more than 1 billion hours of YouTube videos every single day. That's more videos watched daily than on Facebook and Netflix combined. As of user number, YouTube has more than 2.6 billion logged-in monthly users, and that's second only to Facebook which has more than 2.9 billion.
-
 It is very possible that you are already aware of all that — after all, it is common knowledge that YouTube is extremely popular. And given that you found this article, you probably spend some time on YouTube every day yourself, contributing to the stats. And, of course, it can be safely assumed that you are not too happy that a noticeable portion of that time has to be spent on viewing ads, when you're just waiting for the skip button instead of watching the actual videos. Wouldn't it be great if you could just watch YouTube uninterrupted, without unskippable ads?
 
 So let's have a glance at how to block ads on YouTube, and reasons to why your adblock is not working on YouTube as you want it to.
@@ -21,18 +19,64 @@ So let's have a glance at how to block ads on YouTube, and reasons to why your a
 | Non-skippable video ads and long, non-skippable video ads | Unskippable 15+ second ad. It can be inserted before, during, or after the video. |
 | Midroll ads | Appear on videos over 10 minutes: ads are spaced within the video, like TV commercials. User must watch the ad before continuing through the video. |
 | Bumper ads | A lightweight, non-skippable video ad up to 6 seconds long. User must watch the entire ad before the video can be viewed. |
-| Content-embedded ads | Ads that are in the YouTube video itself, absolutely unblockable but can be skipped manually |
+| Sponsorship ads | Ads that are in the YouTube video itself, absolutely unblockable but can be skipped manually |
 
 ---
 
 ### How to stop all these ads on YouTube?
 There are, in fact, several ways to deal with YouTube ads. Which is good, as not all methods suit all people — there's a room for personal preference. Study the available options and choose the one that works best for you.
 
-#### 1. Regular ad-blocking software
-- Just like when you need to blow leaves away you're grabbing a leafblower, when you want to block ads it's only logical to turn to an ad blocker. Let's have a look at pros and cons of using an ad blocker:
+#### 1. YouTube ReVanced
+Just like when you need to blow leaves away you're grabbing a leafblower, when you want to block ads it's only logical to look for an AdBlocker.
 
+Let's have a look at pros and cons of using a modified YouTube app:
 | Pros | Cons |
 | --- | --- |
-| Block ads not just on YouTube but in other apps and browsers too. | Can't block ads in YouTube mobile apps. |
-| A number of free solutions. |   |
+| Block ads on YouTube mobile app. | Can be taken down anytime by Google LLC. |
+| Open source and updated weekly. | Mobile only |
 
+Due to the technical limitations of the Android OS based devices, no ad blocker is able to block ads directly inside of the YouTube app itself. Up until recently, I've discovered  a YouTube ad blocker that can block ads while watching in it by using the app called **YouTube ReVanced**.
+
+#### What is ReVanced?
+ReVanced is a modified/patched YouTube application that has the ability to remove ads, block sponsorship ads (Sponsorblock), and many more.
+
+#### How to use ReVanced?
+1. Download the YouTube ReVanced app in this website.
+2. Download the microG app in this website.
+3. Install the downloaded apps.
+4. Open the YouTube ReVanced app.
+5. Login your account and enjoy.
+
+#### ReVanced not opening/working?
+To solve the problem, please see the possible solutions below to fix your problem.
+
+**No internet connection:**
+- Remove your account from Vanced MicroG (If the problem exists, try again.)
+- Wipe Vanced MicroG & YouTube Vanced/ReVanced app data and cache.
+- Enable auto start for Vanced MicroG if you use heavy customized Android version such as MIUI, OneUI, FlymeOS, HarmonyOS, etc.
+
+**App not installed:**
+- Free up some storage space and try again.
+- Uninstall and Reinstall the apps. There may be a signature mismatch on the apps.
+- Make sure you have downloaded the apps here. (The YouTube app here is Universal Architecture, which means the app is intended to work on all types of device architectures.)
+
+**Crash when opening:**
+- Install or reinstall the apps.
+- Turn off battery optimization for the apps.
+- Allow the apps to run on background or auto start (on heavy customized OS : MIUI, OneUI, FlymeOS, HarmonyOS, etc.)
+- Wipe app data and cache.
+- Uninstall and install the apps.
+
+**Problem parsing the package:**
+- Check your Android version, Make sure your current Android version is 8.0+, the minimum required Android version for the apps to work.
+- Redownload the apps.
+
+#### 2. Install browser extensions.
+This method is quite limited only for PC browsers, but it can also be done in mobile if you install a browser called "Kiwi Browser".
+
+Let's have a look at pros and cons of using an extensions in mobile and PC browsers:
+| Pros | Cons |
+| --- | --- |
+| Can exactly do the same AdBlocking of YouTube ReVanced. | Limited for browsers only. |
+| Can also implement Sponsorblock and Return YouTube Dislike by installing some extensions. | For mobile, this extension method only works if you install Kiwi Browser. |
+| Can also implement other features that the current ReVanced app doesn't have. |   |
