@@ -2,6 +2,7 @@
 title: How to block ads on YouTube?
 subtitle: A quick insight and things you have to know.
 ---
+---
 
 ## Introduction
 It is very possible that you are already aware of all that — after all, it is common knowledge that YouTube is extremely popular. And given that you found this article, you probably spend some time on YouTube every day yourself, contributing to the stats. And, of course, it can be safely assumed that you are not too happy that a noticeable portion of that time has to be spent on viewing ads, when you're just waiting for the skip button instead of watching the actual videos. Wouldn't it be great if you could just watch YouTube uninterrupted, without unskippable ads?
