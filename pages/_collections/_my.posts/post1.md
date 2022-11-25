@@ -45,9 +45,13 @@ ReVanced is a modified/patched YouTube application that has the ability to remov
 
 #### How to use ReVanced?
 1. Download the YouTube ReVanced app in this website.
+
 2. Download the microG app in this website.
+
 3. Install the downloaded apps.
+
 4. Open the YouTube ReVanced app.
+
 5. Login your account and enjoy.
 
 #### ReVanced not opening/working?
@@ -89,18 +93,28 @@ Let's have a look at pros and cons of using an extensions in mobile and PC brows
 
 **Google Chrome**
 1. Open Google Chrome.
+
 2. Click this [link](https://chrome.google.com/webstore/category/extensions).
+
 3. Search the store for a phrase or extension name.
+
 4. When you find an extension you want to install, click the "Add to Chrome" button.
+
 5. In the confirmation box, click **Add extension**.
 
 **Firefox**
 1. Open Mozilla Firefox.
+
 2. Click this [link](https://addons.mozilla.org/en-US/firefox).
+
 3. At the top of the page, click **Extensions**.
+
 4. In the **Find add-ons** search field, type a phrase or extension you want to find.
+
 5. When you find an extension you want to install, click the **Add to Firefox** button.
+
 6. In the upper-left corner of the screen, click the **Add** button or **Cancel** if you want to cancel.
+
 7. When the installation is complete, a notification is displayed.
 
 For more info of how to install extensions, click [here](https://www.computerhope.com/issues/ch001888.htm).
@@ -108,6 +122,7 @@ For more info of how to install extensions, click [here](https://www.computerhop
 #### What extensions I will be installing to remove YouTube ads?
 If you ask me, there are only 2 extensions that I'll recommend to you to install.
 1. Adblock for Youtube™
+
 2. Sponsorblock
 
 #### What is AdBlock for YouTube™?
