@@ -59,23 +59,32 @@ To solve the problem, please see the possible solutions below to fix your proble
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If the problem exists, try again.)
+
 - Wipe Vanced MicroG & YouTube Vanced/ReVanced app data and cache.
+
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as MIUI, OneUI, FlymeOS, HarmonyOS, etc.
 
 **App not installed:**
 - Free up some storage space and try again.
+
 - Uninstall and Reinstall the apps. There may be a signature mismatch on the apps.
+
 - Make sure you have downloaded the apps here. (The YouTube app here is Universal Architecture, which means the app is intended to work on all types of device architectures.)
 
 **Crash when opening:**
 - Install or reinstall the apps.
+
 - Turn off battery optimization for the apps.
+
 - Allow the apps to run on background or auto start (on heavy customized OS : MIUI, OneUI, FlymeOS, HarmonyOS, etc.)
+
 - Wipe app data and cache.
+
 - Uninstall and install the apps.
 
 **Problem parsing the package:**
 - Check your Android version, Make sure your current Android version is 8.0+, the minimum required Android version for the apps to work.
+
 - Redownload the apps.
 
 ### 2. Install browser extensions.
@@ -154,7 +163,10 @@ Lesser known, free apps, not just ad blockers, are often riddled with trackers. 
 ---
 
 ## © Credits
-- -Vortex- from PH Corner
-- AdGuard
-- ReVanced.io
-- Computer Hope
+- **-Vortex- from PH Corner**
+
+- **AdGuard**
+
+- **ReVanced.io**
+
+- **Computer Hope**
