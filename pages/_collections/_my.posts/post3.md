@@ -65,3 +65,30 @@ Proton VPN also integrates with the Tor anonymity network. With a single click, 
 | 100+ servers in 3 countries. (US, NL, JP) | 1700+ servers in 60+ countries. |
 | Medium VPN speed. | Highest VPN speed. |
 | 1 VPN connection. | 10 VPN connections. |
+| Strict no-logs policy. | Strict no-logs policy. |
+|   | Worldwide streaming services. |
+|   | P2P/BitTorrent |
+|   | NetShield malware and ad-blocker. |
+|   | Secure Core servers. |
+|   | Tor over VPN. |
+
+---
+
+## Final Words
+
+### Why use Proton VPN?
+
+#### Security
+Our secure VPN sends your internet traffic through an encrypted VPN tunnel, so your passwords and confidential data stay safe, even over public or untrusted Internet connections.
+
+#### Privacy
+Keep your browsing history private. As a Swiss VPN provider, we do not log user activity or share data with third parties. Our anonymous VPN service enables Internet without surveillance.
+
+#### Freedom
+We created Proton VPN to protect the journalists and activists who use Proton Mail. Proton VPN breaks down the barriers of Internet censorship, allowing you to access any website or content.
+
+---
+
+## © Credits
+- **Proton AG**
+- **TechRadar**
