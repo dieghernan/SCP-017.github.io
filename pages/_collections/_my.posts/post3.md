@@ -17,7 +17,6 @@ But for most users, Proton VPN Free delivers just about everywhere: it's fast, s
 
 ## Pros and Cons
 
----
 | Pros | Cons |
 | --- | --- |
 | No data limits. | Only three locations available. |
@@ -59,7 +58,6 @@ Proton VPN also integrates with the Tor anonymity network. With a single click, 
 
 ## Pricing
 
----
 | Free Plan | Plus Plan |
 | --- | --- |
 | 100+ servers in 3 countries. (US, NL, JP) | 1700+ servers in 60+ countries. |
