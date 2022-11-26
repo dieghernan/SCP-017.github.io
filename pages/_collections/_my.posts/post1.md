@@ -1,6 +1,7 @@
 ---
 title: How to block ads on YouTube?
 subtitle: A quick insight and things you have to know.
+date: 2022-11-24
 ---
 ---
 
