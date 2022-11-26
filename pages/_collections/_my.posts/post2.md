@@ -1,6 +1,7 @@
 ---
 title: Storj
 subtitle: Fast, secure cloud storage at a fraction of the cost.
+date: 2022-11-25
 ---
 ---
 
