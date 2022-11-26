@@ -1,7 +1,7 @@
 ---
 title: Proton VPN (Best Free VPN)
 subtitle: A free and unique VPN to boost your data protection.
-date: 2022-26-Nov
+date: 11-26-2022
 ---
 ---
 
