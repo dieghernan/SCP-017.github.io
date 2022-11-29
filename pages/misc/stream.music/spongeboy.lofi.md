@@ -3,7 +3,7 @@ layout: minimal
 show_comments: true
 ---
 
-{% include snippets/youtube.html id="SPkz3CNlftM" %}
+{% include snippets/video.html id="SPkz3CNlftM" provider="youtube" %}
 
 ---
 
