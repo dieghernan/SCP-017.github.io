@@ -10,7 +10,7 @@ show_comments: true
 <h4> <p align="center"> Website Stats </p> </h4>
 
 <p align="center">
-<img src="https://is.gd/5eOZa8">
+<img src="https://is.gd/0Be4me">
 </p>
 
 <p align="center">
