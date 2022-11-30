@@ -6,14 +6,14 @@ date: 2022-11-30
 ---
 
 ## All in One Hacking tool For Hackers🥇
-![](https://img.shields.io/github/license/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
-![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
-![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+![](https://img.shields.io/github/license/Z4nzu/hackingtool) ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
+
+![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool) ![](https://img.shields.io/badge/Python-3-blue)
+
+![](https://img.shields.io/github/forks/Z4nzu/hackingtool) ![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
+
+![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool) [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
 ---
@@ -208,7 +208,7 @@ date: 2022-11-30
 - [Find SocialMedia By Facial Recognation System](https://github.com/Greenwolf/social_mapper)
 - [Find SocialMedia By UserName](https://github.com/xHak9x/finduser)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
-- [SocialScan | Username or Email](https://github.com/iojw/socialscan)
+- [SocialScan](https://github.com/iojw/socialscan)
 
 #### Payload Injector
 - [Debinject](https://github.com/UndeadSec/Debinject)
@@ -231,4 +231,4 @@ date: 2022-11-30
 ## Installation?
 For installation instructions, please visit this site for more instructions of how to do so.
 
-https://github.com/Z4nzu/hackingtool
+[https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
