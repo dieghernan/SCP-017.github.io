@@ -29,12 +29,11 @@ show_comments: true
 
 <h4> <p align="center"> Total Strangers Visited </p> </h4>
 
-<div align='center'>
-<a href='https://www.websitecounterfree.com'>
-<img src='https://www.websitecounterfree.com/c.php?d=9&id=24855&s=36' border='0' alt='Free Website Counter'>
-</a>
+<p align="center">
+<img src="https://www.websitecounterfree.com/c.php?d=9&id=24855&s=36">
+</p>
 
-<hr>
+---
 
 <p align="center"> 👁️ </p>
 <p align="center"> <sub> I will be watching you stranger. </sub> </p>
