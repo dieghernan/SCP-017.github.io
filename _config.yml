@@ -85,7 +85,7 @@ footer:
   copyright: © 2022 by SCP-017
 
 chulapa-skin: 
-  skin: twitter-lights-out
+  skin: gitdev-out
 
 comments:
   provider: giscus #https://giscus.app
